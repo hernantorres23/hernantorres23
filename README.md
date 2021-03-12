@@ -1,4 +1,4 @@
-👋 Hi, I am `Hernan Torres` a `database` and `Python developer`. Besides, I am a public accountant and future `Cloud Engineer`.   
+👋 Hi, my name is `Hernan Torres` a `database` and `Python developer`. Besides, I am a public accountant and future `Cloud Engineer`.   
 
 👀 I am interested in work in the following:  
 Cleaning messy data + Data insights + Eliminate Biases = Good information to decision making. 
